@@ -1,0 +1,22 @@
+// Exercise 2: Compute the Daily Cost of // Rent for a 30-Day Month
+
+// 1: Start program
+start
+
+// 2: Input value
+input costMonthlyRent
+
+// 3. Perform calculation for 30-day period
+costPerDay = costMonthlyRent / 30
+
+// 4: Print the result
+print costPerDay
+
+// 5: End program
+stop	// Process summary
+
+start
+input costMonthlyRent
+costPerDay = costMonthlyRent / 30
+print costPerDay
+stop
