@@ -188,7 +188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="M2 A2-1" id="W2DTb47PafDzQvbJd6_R">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LcdCUcga87NlSXjZwfgL-0" />
         <mxCell id="LcdCUcga87NlSXjZwfgL-1" parent="LcdCUcga87NlSXjZwfgL-0" />
@@ -247,7 +247,7 @@
         <mxCell id="RmgSZFwXgPhT4lQP9YPT-4" value="calculate costRoomOtherTotal = costRoomOther * numberRoomOther" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LcdCUcga87NlSXjZwfgL-1">
           <mxGeometry x="226" y="388.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RmgSZFwXgPhT4lQP9YPT-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;display&lt;/div&gt;&lt;div&gt;nameLast&lt;/div&gt;&lt;div&gt;numberBathroom&lt;/div&gt;&lt;div&gt;costBathroomTotal&lt;br&gt;&lt;/div&gt;&lt;div&gt;numberRoomOther&lt;/div&gt;&lt;div&gt;costRoomOtherTotal&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;costTotal&lt;/div&gt;&lt;div&gt;messageProgramComplete&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="LcdCUcga87NlSXjZwfgL-1">
+        <mxCell id="RmgSZFwXgPhT4lQP9YPT-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;display report with&lt;/div&gt;&lt;div&gt;nameLast&lt;/div&gt;&lt;div&gt;numberBathroom&lt;/div&gt;&lt;div&gt;costBathroomTotal&lt;br&gt;&lt;/div&gt;&lt;div&gt;numberRoomOther&lt;/div&gt;&lt;div&gt;costRoomOtherTotal&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;costTotal&lt;/div&gt;&lt;div&gt;messageProgramComplete&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="LcdCUcga87NlSXjZwfgL-1">
           <mxGeometry x="390" y="111.11" width="160" height="198" as="geometry" />
         </mxCell>
         <mxCell id="YyVUUL1lZi_MD083lro6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LcdCUcga87NlSXjZwfgL-1" source="RmgSZFwXgPhT4lQP9YPT-9" target="YyVUUL1lZi_MD083lro6-0">
@@ -319,7 +319,7 @@
         <mxCell id="qywylT4Grm4w-fNRpe1L-16" value="calculate costLabor = rateHourly * hoursProjected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qywylT4Grm4w-fNRpe1L-1">
           <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qywylT4Grm4w-fNRpe1L-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;display&lt;/div&gt;&lt;div&gt;&lt;div&gt;costLabor&lt;br&gt;&lt;/div&gt;&lt;div&gt;costTotal&lt;br&gt;&lt;/div&gt;&lt;div&gt;costMaterials&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qywylT4Grm4w-fNRpe1L-1">
+        <mxCell id="qywylT4Grm4w-fNRpe1L-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;display report with&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;costLabor&lt;br&gt;&lt;/div&gt;&lt;div&gt;costTotal&lt;br&gt;&lt;/div&gt;&lt;div&gt;costMaterials&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qywylT4Grm4w-fNRpe1L-1">
           <mxGeometry x="390" y="160" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XrHnGtjVH_0R6cCQuHRV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qywylT4Grm4w-fNRpe1L-1" source="qywylT4Grm4w-fNRpe1L-19" target="XrHnGtjVH_0R6cCQuHRV-0">
